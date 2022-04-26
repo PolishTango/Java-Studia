@@ -17,7 +17,7 @@ public class Zad2 {
         pracownicy.add(Imie);
         pracownicy.add(Nazwisko);
         pracownicy2.add(staz);
-        System.out.println("Wpisany pracownik");
+        System.out.println("Wpisany pracownik zmiana tekstu");
         System.out.println(pracownicy);
         System.out.println("Ilość godzin stażu");
         System.out.println(pracownicy2);
