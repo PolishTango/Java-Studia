@@ -21,7 +21,7 @@ public class Zad3 {
             String nazwa3 = scr.nextLine();
             System.out.println("Wpisz ilosc 2 produktu: ");
             double ilosc2 = scr.nextDouble();
-            System.out.println("Wpisz cene 2 produktu zmiana tekstu: ");
+            System.out.println("Wpisz cene 2 produktu zmiana tekst: ");
             double cena2 = scr.nextDouble();
             double suma2 = ilosc2 * cena2;
             zakupy.add(nazwa);
