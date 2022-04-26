@@ -13,7 +13,7 @@ public class Zad1 {
         Herbata smaczek = k.zwrocElement();
         System.out.println("Ulubiony smak: "+smaczek.smak);
         System.out.println("Ilosc lat: "+i.zwrocElement());
-        System.out.println("Przykladowa nazwa: "+ s.zwrocElement());
+        System.out.println("Przykladowa nazwa zmiana tutaj: "+ s.zwrocElement());
 
     }
 }
